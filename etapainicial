@@ -1,0 +1,19 @@
+<html>    
+     <head>
+	 <meta charset="utf-8" />
+	 <title>Meu primeiro site HTML</title>
+     </head>       
+	<body>
+
+	   <font color="#4B0082">
+	     Este é um site teste, onde mostrará meus estudos com Desenvolvimento Web.
+
+	   </font color> </br>
+	<img src="https://ih1.redbubble.net/image.1804838778.2674/st,small,507x507-pad,600x600,f8f8f8.jpg"
+	weight=500px height=500px />
+
+
+    	</body>
+
+
+</html>
